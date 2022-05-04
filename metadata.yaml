@@ -1,0 +1,30 @@
+_repo: Remarks-on-the-Importance-of-the-Study-of-Political-Pamphlets-Weekly-Papers-Periodical-Papers__67836
+_version: 0.0.1
+contributor:
+  dubious_author:
+    agent_name: Barrow, Thomas
+    gutenberg_agent_id: '54491'
+    url: http://www.gutenberg.org/2009/agents/54491
+description: Sometimes attributed to Thomas Barrow.
+gutenberg_issued: '2022-04-15'
+identifiers:
+  gutenberg: '67836'
+language: en
+pgterms:marc904: https://archive.org/details/remarksonimporta00unkn
+pgterms:marc905: 20210927090008anonymous
+pgterms:marc906: '1765'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United Kingdom :W. Nicoll,1765.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Politics and government -- 1760-1820 -- Early works to 1800'
+- !lcc 'DA'
+- GITenberg
+title: Remarks on the Importance of the Study of Political Pamphlets, Weekly Papers,
+  Periodical Papers, Daily Papers, Political Music, &c.
+url: http://www.gutenberg.org/ebooks/67836
