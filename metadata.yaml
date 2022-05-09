@@ -5,7 +5,12 @@ contributor:
     agent_name: Barrow, Thomas
     gutenberg_agent_id: '54491'
     url: http://www.gutenberg.org/2009/agents/54491
+covers:
+- cover_type: archival
+  image_path: 67836-h/images/cover.jpg
 description: Sometimes attributed to Thomas Barrow.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67836#Remarks-on-the-Importance-of-the-Study-of-Political-Pamphlets-Weekly-Papers-Periodical-Papers_
 gutenberg_issued: '2022-04-15'
 identifiers:
   gutenberg: '67836'
